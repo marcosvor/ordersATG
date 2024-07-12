@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderGenerator", "OrderGenerator\OrderGenerator.csproj", "{760B25FF-CF90-423B-BAEE-0173F0A241AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderGeneratorTest", "OrderGeneratorTest\OrderGeneratorTest.csproj", "{AF07B88E-21F7-495A-9B0F-4423CE0EC227}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{760B25FF-CF90-423B-BAEE-0173F0A241AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760B25FF-CF90-423B-BAEE-0173F0A241AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760B25FF-CF90-423B-BAEE-0173F0A241AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760B25FF-CF90-423B-BAEE-0173F0A241AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF07B88E-21F7-495A-9B0F-4423CE0EC227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF07B88E-21F7-495A-9B0F-4423CE0EC227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF07B88E-21F7-495A-9B0F-4423CE0EC227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF07B88E-21F7-495A-9B0F-4423CE0EC227}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
